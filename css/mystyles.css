@@ -1,0 +1,98 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: navy !important;
+}
+
+.img-profile {
+    width: 10rem;
+    height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    object-fit: cover;
+    object-position: -54px;
+}
+
+.platformIcon {
+    width: 45px;
+    margin-top: -10px;
+}
+
+.tableauBody {
+    font-family: 'Arial', sans-serif;
+    background-color: tan;
+}
+
+header {
+    color: #fff;
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #444;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 50px;
+}
+
+.features ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.features img {
+    width: 370;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    margin-right: 110;
+    margin-top: -48px;
+
+}
+
+.video iframe {
+    width: 500px;
+    height: 300px;
+}
+
+.tableauChart {
+    width: 80%;
+    margin: auto;
+}
+
+.tableauSection div {
+    margin:auto;
+}
+
+footer {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.chart1 {
+    width: 70%;
+}
+
+.description {
+    margin: auto;
+    width: 30%;
+    margin-bottom: 40px;
+    margin-top: 25px;
+}
