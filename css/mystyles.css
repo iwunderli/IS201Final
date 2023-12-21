@@ -84,13 +84,14 @@ footer {
     background-color: #333;
     padding: 10px;
     text-align: center;
+    color: white;
 }
 
 .chart1 {
     width: 70%;
 }
 
-.tableauSection div .description {
+.tableauSection div .description, .tableauSection .description {
     margin: auto;
     width: 30%;
     margin-bottom: 40px;
